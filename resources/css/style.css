@@ -1,0 +1,24 @@
+h1,
+h2 {
+  font-size: 60px;
+  color: white;
+}
+
+html {
+  text-align: center;
+  background-color: black;
+  font-family: Helvetica;
+}
+
+.footer {
+  text-align: right;
+  color: grey;
+  font-style: bold;
+}
+
+.cta {
+  color: Aquamarine;
+  font-family: arial;
+  font-style: bold;
+  text-decoration: underline;
+}
